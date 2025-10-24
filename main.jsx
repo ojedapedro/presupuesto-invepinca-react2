@@ -1,0 +1,1 @@
+import React from 'react'; import ReactDOM from 'react-dom/client'; import InvepincaApp from './InvepincaApp.jsx'; import './index.css'; ReactDOM.createRoot(document.getElementById('root')).render(<React.StrictMode><InvepincaApp /></React.StrictMode>);
